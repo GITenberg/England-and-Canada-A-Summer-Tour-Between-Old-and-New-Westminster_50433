@@ -1,10 +1,16 @@
 _repo: England-and-Canada-A-Summer-Tour-Between-Old-and-New-Westminster_50433
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50433-h/images/cover.jpg
 creator:
   author:
     agent_name: Fleming, Sandford
     gutenberg_agent_id: '45904'
     url: http://www.gutenberg.org/2009/agents/45904
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50433#England-and-Canada-A-Summer-Tour-Between-Old-and-New-Westminster
 gutenberg_issued: '2015-11-11'
 gutenberg_type: Text
 identifiers:
